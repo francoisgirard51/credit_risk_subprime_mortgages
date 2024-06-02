@@ -1,4 +1,4 @@
-# Credit risk ccoring for subprime mortgages
+# Credit risk scoring for subprime mortgages
 
 This project focuses on developing a credit risk scoring model for subprime mortgages using machine learning techniques. We employ a logistic regression model to predict the likelihood of default and evaluate its performance through ROC and Precision-recall curve analyses. The steps include data preprocessing, exploratory analysis, model training, and evaluation. Insights derived from this project aim to enhance risk management practices in the financial sector.
 
